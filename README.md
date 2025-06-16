@@ -1,16 +1,4 @@
-# qrcode
+This is the flutter Application which scans and generate QR Codes.
+The Package which are used in this project are - qr_flutter and flutter_barcode_scanner
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![First](https://github.com/user-attachments/assets/2a9fe1ae-b64e-429b-bbb7-4441f61754d0)
